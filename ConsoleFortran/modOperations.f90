@@ -1,7 +1,7 @@
 module operations
     implicit none
     real, parameter :: PI    = 3.141592
-    real, parameter :: TWOPI = 2*PI
+    real, parameter :: TWOPI = 2*PI     ! anadido desde Linux
     
 contains
     
