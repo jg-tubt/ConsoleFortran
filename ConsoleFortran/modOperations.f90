@@ -1,6 +1,7 @@
 module operations
     implicit none
-    real, parameter :: PI = 3.141592
+    real, parameter :: PI    = 3.141592
+    real, parameter :: TWOPI = 2*PI
     
 contains
     
