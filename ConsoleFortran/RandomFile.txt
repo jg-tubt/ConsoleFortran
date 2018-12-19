@@ -1,5 +1,3 @@
 First Line
 Second line
-Tercera linea
-Cuarta linea
 Fifth line
